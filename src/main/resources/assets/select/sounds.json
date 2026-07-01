@@ -1,0 +1,150 @@
+{
+  "haha.beliya": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/beliya", "stream": true }]
+  },
+  "haha.aiqingzhuanyi": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/aiqingzhuanyi", "stream": true }]
+  },
+  "haha.cunriying": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/cunriying", "stream": true }]
+  },
+  "haha.fukua": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/fukua", "stream": true }]
+  },
+  "haha.dilili": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/dilili", "stream": true }]
+  },
+  "haha.dudu_da": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/dudu_da", "stream": true }]
+  },
+  "haha.gangguan": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/gangguan", "stream": true }]
+  },
+  "haha.gugugaga": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/gugugaga", "stream": true }]
+  },
+  "haha.jianguan": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/jianguan", "stream": true }]
+  },
+  "haha.johnson_dengyan": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/johnson_dengyan", "stream": true }]
+  },
+  "haha.kami_xiao": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/kami_xiao", "stream": true }]
+  },
+  "haha.liubei_jiasu": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/liubei_jiasu", "stream": true }]
+  },
+  "haha.man": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/man", "stream": true }]
+  },
+  "haha.manbo_shaxiao": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/manbo_shaxiao", "stream": true }]
+  },
+  "haha.mujika": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/mujika", "stream": true }]
+  },
+  "haha.nailong_daxiao": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/nailong_daxiao", "stream": true }]
+  },
+  "haha.tang_xiao": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tang_xiao", "stream": true }]
+  },
+  "haha.tom_jiao1": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tom_jiao1", "stream": true }]
+  },
+  "haha.tom_jiao2": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tom_jiao2", "stream": true }]
+  },
+  "haha.wenzi": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/wenzi", "stream": true }]
+  },
+  "haha.zuobian_binge": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/zuobian_binge", "stream": true }]
+  },
+  "haha.monv": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/monv", "stream": true }]
+  },
+  "haha.power": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/power", "stream": true }]
+  },
+  "haha.tfboys": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tfboys", "stream": true }]
+  },
+  "haha.chouyan": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/chouyan", "stream": true }]
+  },
+  "haha.tong": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tong", "stream": true }]
+  },
+  "haha.quanshiai": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/quanshiai", "stream": true }]
+  },
+  "haha.tafei": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/tafei", "stream": true }]
+  },
+  "haha.indu": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/indu", "stream": true }]
+  },
+  "haha.indu2": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/indu2", "stream": true }]
+  },
+  "haha.indu3": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/indu3", "stream": true }]
+  },
+  "haha.taiguan": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/taiguan", "stream": true }]
+  },
+  "haha.never": {
+    "category": "master",
+    "sounds": [{ "name": "select:haha/never", "stream": true }]
+  },
+  "music.spectre": {
+    "category": "music",
+    "sounds": [{ "name": "select:music/spectre", "stream": true }]
+  },
+  "music.all_falls_down": {
+    "category": "music",
+    "sounds": [{ "name": "select:music/all_falls_down", "stream": true }]
+  },
+  "music.alone": {
+    "category": "music",
+    "sounds": [{ "name": "select:music/alone", "stream": true }]
+  },
+  "music.faded": {
+    "category": "music",
+    "sounds": [{ "name": "select:music/faded", "stream": true }]
+  }
+}

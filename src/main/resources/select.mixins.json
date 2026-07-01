@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "package": "com.lvedy.select.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CreeperMixin",
+    "ServerPlayerMixin",
+    "WebBlockMixin"
+  ],
+  "client": [
+    "PlayerRendererMixin",
+    "HumanoidModelMixin",
+    "PlayerSetupRotationsMixin",
+    "GameRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

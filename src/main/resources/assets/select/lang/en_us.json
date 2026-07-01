@@ -1,0 +1,10 @@
+{
+  "itemGroup.select": "Select",
+  "item.select.weather_controller": "Weather Controller",
+  "item.select.mamba": "Mamba",
+  "item.select.death_note": "Death Note",
+  "item.select.chocolite": "Chocolite",
+  "item.select.sprite": "Sprite",
+  "death.attack.heart_failure": "%1$s died of heart failure",
+  "death.attack.heart_failure.player": "%1$s died of heart failure"
+}

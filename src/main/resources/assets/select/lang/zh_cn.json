@@ -1,0 +1,10 @@
+{
+  "itemGroup.select": "Select",
+  "item.select.weather_controller": "天气控制器",
+  "item.select.mamba": "曼巴",
+  "item.select.death_note": "死亡笔记",
+  "item.select.chocolite": "巧乐兹",
+  "item.select.sprite": "雪碧",
+  "death.attack.heart_failure": "%1$s死于心脏麻痹",
+  "death.attack.heart_failure.player": "%1$s死于心脏麻痹"
+}
